@@ -1,0 +1,10 @@
+@import "./quasar.variables.scss";
+@import "./core/background-color.scss";
+@import "./core/border.scss";
+@import "./core/letter-spacing.scss";
+@import "./core/text-color.scss";
+@import "./core/typography.scss";
+
+body {
+  background-color: $gray-2;
+}
