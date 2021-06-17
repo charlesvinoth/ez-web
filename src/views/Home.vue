@@ -1,5 +1,7 @@
 <template>
-  <div class="q-pa-xl"></div>
+  <div class="q-pa-xl">
+    <BaseButton label="button"></BaseButton>
+  </div>
 </template>
 
 <script>
